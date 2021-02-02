@@ -16,6 +16,7 @@ namespace EmpWage
 
               else
                 Console.WriteLine("absent");
+		Console.WriteLine("changes for indentification");
         }
     }
 }
