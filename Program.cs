@@ -16,7 +16,7 @@ namespace EmpWage
 
               else
                 Console.WriteLine("absent");
-		Console.WriteLine("changes for indentification");
+		Console.WriteLine("Added branch to UC2Test");
         }
     }
 }
